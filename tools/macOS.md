@@ -16,11 +16,9 @@
 echo 'export PATH=/opt/homebrew/bin:$PATH' >> ~/.zshrc
 ```
 
-- w
-
 ---
 
-## node install
+## node.js install
 
 1. brew install nvm
 2. CLI : mkdir ~/.nvm
